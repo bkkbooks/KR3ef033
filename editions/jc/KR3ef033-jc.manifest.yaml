@@ -1,0 +1,116 @@
+canonical_identifier: bkk:krp/KR3ef033/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ef033/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 傷寒附翼
+  identifiers:
+    krp: KR3ef033
+  tags:
+    kr-categories: KR3ef
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef033.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 1, filename: KR3ef033_001-jc.yaml, hash: 'sha256:6b508b8fff106bb40436953f27ddbd7ac2a417ced619a250e0568a8012ce4db2'}
+  - {seq: 3, filename: KR3ef033_003-jc.yaml, hash: 'sha256:4e830fd7ab5329b10c9e57eb4e990c3b67106d00583985867b2179b8a0b99170'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3ef033_001-jc.markers.yaml, hash: 'sha256:6daef871822d4bf5ad53fe9814646acacfde0d97b3737cf0ff4cfece46d7c005'}
+  - {seq: 3, role: markers, filename: assets/KR3ef033_003-jc.markers.yaml, hash: 'sha256:dd24412a5abe47fbd098977e828a14a7c37947d9fbfb0209bed7c4dcf1728503'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3ef033_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 18340
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ef033_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 18340
+  label: 太陽方總論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef033_jc_003-d3.h1s1
+    span:
+    - body
+    - 0
+    - 20037
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ef033_jc_003-d3d2
+    span:
+    - body
+    - 2
+    - 5021
+  label: 陽明方總論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef033_jc_003-d3d3
+    span:
+    - body
+    - 5021
+    - 8111
+  label: 少陽方總論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef033_jc_003-d3d4
+    span:
+    - body
+    - 8111
+    - 10815
+  label: 太陰方總論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef033_jc_003-d3d5
+    span:
+    - body
+    - 10815
+    - 16072
+  label: 少陰方總論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef033_jc_003-d3d6
+    span:
+    - body
+    - 16072
+    - 19050
+  label: 厥陰方總論
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef033_jc_003-d3d7
+    span:
+    - body
+    - 19050
+    - 20037
+  label: 六經方餘論
+  type: section
+  level: 2
+hash: sha256:51a6f92b336618c756b69a2d308c3d2bab06635be90f641239405b8599d226cc
