@@ -20,7 +20,7 @@ assets:
   - {seq: 1, filename: KR3ef033_001-jc.yaml, hash: 'sha256:6b508b8fff106bb40436953f27ddbd7ac2a417ced619a250e0568a8012ce4db2'}
   - {seq: 3, filename: KR3ef033_003-jc.yaml, hash: 'sha256:4e830fd7ab5329b10c9e57eb4e990c3b67106d00583985867b2179b8a0b99170'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ef033_001-jc.markers.yaml, hash: 'sha256:6daef871822d4bf5ad53fe9814646acacfde0d97b3737cf0ff4cfece46d7c005'}
+  - {seq: 1, role: markers, filename: assets/KR3ef033_001-jc.markers.yaml, hash: 'sha256:545c431e498b32a310f243001d08b195e3998d0e41cfff6eea0c072c5d87d56a'}
   - {seq: 3, role: markers, filename: assets/KR3ef033_003-jc.markers.yaml, hash: 'sha256:dd24412a5abe47fbd098977e828a14a7c37947d9fbfb0209bed7c4dcf1728503'}
 table_of_contents:
 - ref:
@@ -113,4 +113,4 @@ table_of_contents:
   label: 六經方餘論
   type: section
   level: 2
-hash: sha256:51a6f92b336618c756b69a2d308c3d2bab06635be90f641239405b8599d226cc
+hash: sha256:8f532cacc6082cdc2b36b48a31319ef6a6d6a06d57c2c0b65851b096c3fb96be

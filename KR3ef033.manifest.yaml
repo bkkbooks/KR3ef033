@@ -20,7 +20,7 @@ assets:
   - {seq: 1, filename: KR3ef033_001.yaml, hash: 'sha256:8728711d366d0832f708a8cf311308d4d475ab30fe474f2ca949eafa81a1e6cb'}
   - {seq: 3, filename: KR3ef033_003.yaml, hash: 'sha256:71e1d2c6f85460545f3e80228845f22da3a25c744ef9c3ff7def034ade6406b2'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ef033_001.markers.yaml, hash: 'sha256:86c031931925cca3206a71840f9f32ee09449c25d2f23dd54b3c26ea8acaa90b'}
+  - {seq: 1, role: markers, filename: assets/KR3ef033_001.markers.yaml, hash: 'sha256:c39ff89e39f6db026ff0a3aacdd9c2eda03968888599af760fa96cedf2cc8f5f'}
   - {seq: 3, role: markers, filename: assets/KR3ef033_003.markers.yaml, hash: 'sha256:8d95461983cb07c97f68cbe8e66d69f7a0538b4100354a884ba44b86dc79d348'}
 table_of_contents:
 - ref:
@@ -113,7 +113,7 @@ table_of_contents:
   label: 六經方餘論
   type: section
   level: 2
-hash: sha256:44bfe4bf8aba8a704da083b7086f20c1c2b49d63d0261bc35adfeead1ffc4897
+hash: sha256:5d6abe877ad365e848ebf0d194b64430005f19a3e1e307098d88e49705a4017d
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
